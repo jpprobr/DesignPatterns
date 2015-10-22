@@ -1,0 +1,6 @@
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\Mix\Singleton\Ex2\bin\Debug\Ex2.exe.config
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\Mix\Singleton\Ex2\bin\Debug\Ex2.exe
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\Mix\Singleton\Ex2\bin\Debug\Ex2.pdb
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\Mix\Singleton\Ex2\obj\Debug\Ex2.exe
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\Mix\Singleton\Ex2\obj\Debug\Ex2.pdb
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\Mix\Singleton\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache

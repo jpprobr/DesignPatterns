@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="Diretor">
+    <Position X="0.51" Y="0.635" Height="0.291" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Construtor">
+    <Position X="3.208" Y="0.5" Height="0.291" Width="0.992" />
+  </Comment>
+  <Comment CommentText="Construtor Concreto">
+    <Position X="1.594" Y="3.5" Height="0.291" Width="1.367" />
+  </Comment>
+  <Comment CommentText="Construtor Concreto">
+    <Position X="5.281" Y="3.49" Height="0.291" Width="1.367" />
+  </Comment>
+  <Comment CommentText="Produto">
+    <Position X="7.417" Y="1.896" Height="0.291" Width="1.023" />
+  </Comment>
+  <Class Name="Ex1.ConstrutorMoto">
+    <Position X="4.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAABAAAAAUAAA=</HashCode>
+      <FileName>ConstrutorMoto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex1.ConstrutorCarro">
+    <Position X="2.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAABAAAAAUAAA=</HashCode>
+      <FileName>ConstrutorCarro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex1.Montadora">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Montadora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex1.Veiculo">
+    <Position X="6.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex1.ConstrutorVeiculo">
+    <Position X="3.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAABEAAAAUAAA=</HashCode>
+      <FileName>ConstrutorVeiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
